@@ -8,6 +8,7 @@ fastapi = "*"
 uvicorn = "*"
 pytest = "*"
 flake8-black = "*"
+motor = "*"
 
 [dev-packages]
 
